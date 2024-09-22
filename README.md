@@ -1,2 +1,7 @@
-# Project-Sprint-1
-Project Sprint #1
+Name: Josh Castro
+
+UMKC ID: 16315698
+
+UMKC email: ject4b@umsystem.edu
+
+
